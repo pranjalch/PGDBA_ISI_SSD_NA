@@ -4,7 +4,7 @@
 ## Datasets: 
 1) Carseats (library: ISLR2)
 2) Boston Housing (library: MASS)
-3) NYC Flight (library: nycflights13) -- Note: Very large dataset
+3) NYC Flights (library: nycflights13) -- Note: Very large dataset
 4) mtcars
 
 Submitted By:
